@@ -1,3 +1,8 @@
+## Simple Tic-Tac-Toe game in ReactJS
+ - Run using `yarn start` and navigate to `localhost:3000`
+ 
+ -----------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
